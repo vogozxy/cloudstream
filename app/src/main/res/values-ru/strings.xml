@@ -661,4 +661,7 @@
     <string name="confirm_before_exiting_desc">Показать диалог перед выходом из апликации</string>
     <string name="show">Показать</string>
     <string name="dont_show">Не показывать</string>
+    <string name="backup_path_title">Расположение резервных копий</string>
+    <string name="custom">Пользовательский</string>
+    <string name="torrent_info">Это видео является торрентом, это значит, что вашу видеоактивность можно отследить.\nУбедитесь, что вы понимаете работу торрентов, прежде чем продолжить.</string>
 </resources>
